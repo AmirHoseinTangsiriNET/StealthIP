@@ -20,4 +20,4 @@ OR
 - python script.py decode -d input_directory_path --output_format output_file_format
 
 Note: In both cases, you need to specify the mode (encode or decode) and the input file or directory. For decoding, you also need to specify the output file format.
-
+Disclaimer: This script is provided as-is without any warranty. The author takes no responsibility for the misuse or consequences of its usage.
