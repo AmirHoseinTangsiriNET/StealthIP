@@ -10,14 +10,14 @@ In the decoding process, you can either decode a single file or decode all files
 To use the code, you can run the script with the following command line arguments:
 
 ### Encoding Data:
-- python script.py encode -f input_file_path
+- python StealthIP.py encode -f input_file_path
 OR
 - python script.py encode -d input_directory_path
 
 ### Decoding Data:
-- python script.py decode -f input_file_path --output_format output_file_format
+- python StealthIP.py decode -f input_file_path --output_format output_file_format
 OR
-- python script.py decode -d input_directory_path --output_format output_file_format
+- python StealthIP.py decode -d input_directory_path --output_format output_file_format
 
 Note: In both cases, you need to specify the mode (encode or decode) and the input file or directory. For decoding, you also need to specify the output file format.
 Disclaimer: This script is provided as-is without any warranty. The author takes no responsibility for the misuse or consequences of its usage.
