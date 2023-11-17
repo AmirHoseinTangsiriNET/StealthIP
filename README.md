@@ -1,5 +1,5 @@
 # StealthIP
-This Code Allows You Tto Encode/Decode files In a the IP format for steganography.
+This Code Allows You To Encode/Decode files In The IP Format For Steganography.
 In the encoding process, you can either encode a single file or encode all files in a directory. The file(s) are read as binary data and divided into segments of 4 bytes. Each segment is then converted into a string representation of an IP address and joined together with line breaks to create the encoded data. The encoded data is then saved in a file named based on your data file name.
 <p align="center">
   <img src="Img/Encoding.png" alt="Master">
